@@ -1,0 +1,14 @@
+{
+  "name": "com.foxthorne.template",
+  "version": "0.0.1",
+  "displayName": "Package Template",
+  "description": "Template package.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Foxthorne",
+    "email": "jack@wrightus.com"
+  },
+  "dependencies": {
+    "com.foxthorne.utilities": "0.0.1"
+  }
+}
